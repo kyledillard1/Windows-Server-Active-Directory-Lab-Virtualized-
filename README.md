@@ -50,7 +50,8 @@ Screenshots included in this repository document:
 - Active Directory Users and Computers console  
 - User and security group creation  
 - Group membership management  
-- Account administration tasks  
+- Account administration tasks
+- Screenshots are numberd to reflect the progression of the lab and demonstrate each completed task. 
 
 ---
 
