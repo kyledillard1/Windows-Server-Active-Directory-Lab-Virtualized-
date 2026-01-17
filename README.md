@@ -7,7 +7,7 @@ This project demonstrates the installation and configuration of Windows Server i
 
 ---
 
-## Lab Environment
+## 🧱Lab Environment
 - **Virtual Machine Name:** DC01  
 - **Hypervisor:** VirtualBox  
 - **Operating System:** Windows Server (Desktop Experience)  
@@ -18,14 +18,14 @@ This project demonstrates the installation and configuration of Windows Server i
 
 ---
 
-## Technologies Used
+## 🛠️Technologies Used
 - Windows Server  
 - Active Directory Domain Services (AD DS)  
 - VirtualBox  
 
 ---
 
-## Key Tasks Performed
+## 🔧 Key Tasks Performed
 - Installed and configured Windows Server in a virtual environment  
 - Promoted the server to a domain controller  
 - Created and managed Active Directory organizational units (OUs)  
@@ -44,14 +44,17 @@ This project demonstrates the installation and configuration of Windows Server i
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 Screenshots included in this repository document:
 - Windows Server configuration and setup  
 - Active Directory Users and Computers console  
 - User and security group creation  
 - Group membership management  
 - Account administration tasks
-- Screenshots are numberd to reflect the progression of the lab and demonstrate each completed task. 
+
+  Screenshots are numberd to reflect the progression of the lab and demonstrate each completed task.
+
+➡️ See the `screenshots/` folder.
 
 ---
 
