@@ -30,7 +30,8 @@ This project demonstrates the installation and configuration of Windows Server i
 - Promoted the server to a domain controller  
 - Created and managed Active Directory organizational units (OUs)  
 - Created domain users and security groups  
-- Added users to security groups for role-based access management  
+- Added users to security groups for role-based access management
+- Assigned **NTFS Read & Execute permissions** to a Help Desk security group to enforce least-privilege access  
 - Performed common IT support tasks such as password resets, account unlocks, and account administration  
 
 ---
